@@ -1,6 +1,6 @@
 ## **Usage**
 
-Code tested with python 3.10
+Code tested with python 3.10 (should work with 3.7+)
 
 1. Clone repository
 
@@ -20,7 +20,7 @@ cd CopyTelegramChannel
 pip install -r requirements.txt
 ```
 
-4. Set api_id and api_hash in congig.py (you can get it [here](https://my.telegram.org/apps))
+4. Set api_id and api_hash in config.py (you can get it [here](https://my.telegram.org/apps))
 
 5. Run the script and follow the instructions:
 
