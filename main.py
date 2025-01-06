@@ -1,3 +1,4 @@
+from __future__ import annotations
 from telethon.tl.functions.channels import GetFullChannelRequest
 from telethon.tl.functions.messages import GetFullChatRequest
 from config import api_id, api_hash
